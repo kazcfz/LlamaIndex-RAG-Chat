@@ -12,5 +12,4 @@ Perform RAG (Retrieval-Augmented Generation) from your PDFs using this Colab not
 - Set custom prompt templates
 
 ## Getting started
-1. Visit [Colab](https://colab.research.google.com/)
-2. Create/Open notebook from this GitHub repository
+1. [Open in colab](https://colab.research.google.com/github/kazcfz/LlamaIndex-RAG/blob/main/LLM_RAG.ipynb)
