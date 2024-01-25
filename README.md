@@ -8,7 +8,7 @@ Perform RAG (Retrieval-Augmented Generation) from your PDFs using this Colab not
 
 ## Features
 - Fast inference on Colab's free T4 GPU
-- Powered by HuggingFace local LLMs (llama-cpp-python) and local text embedding models
+- Powered by Hugging Face quantized LLMs (llama-cpp-python) and local text embedding models
 - Set custom prompt templates
 
 ## Getting started
