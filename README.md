@@ -5,11 +5,20 @@
 
 # LlamaIndex-RAG
 Perform RAG (Retrieval-Augmented Generation) from your PDFs using this Colab notebook!
+<br><br>
 
 ## Features
+- Free, no API or Token required
 - Fast inference on Colab's free T4 GPU
-- Powered by Hugging Face quantized LLMs (llama-cpp-python) and local text embedding models
+- Powered by Hugging Face quantized LLMs (llama-cpp-python)
+- Powered by Hugging Face local text embedding models
 - Set custom prompt templates
+- Prepared Chat mode (not QA)
+<br><br>
 
 ## Getting started
 1. [Open in colab](https://colab.research.google.com/github/kazcfz/LlamaIndex-RAG/blob/main/LlamaIndex_RAG.ipynb)
+2. Make sure the Colab's Runtime Type is set to T4 GPU (at least)
+3. Edit preferences in Block 4
+4. Upload your PDF into Files (Default name: `rag_data.pdf`)
+5. Runtime > Run all
