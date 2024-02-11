@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://cdn-uploads.huggingface.co/production/uploads/6424f01ea4f3051f54dbbd85/oqVQ04b5KiGt5WOWJmYt8.png" alt="LlamaIndex" width="100" height="100">
-    <img src="https://cdn4.iconfinder.com/data/icons/file-extensions-1/64/pdfs-512.png" alt="PDF" width="100" height="100">
+    <img src="https://cdn-uploads.huggingface.co/production/uploads/6424f01ea4f3051f54dbbd85/oqVQ04b5KiGt5WOWJmYt8.png" alt="LlamaIndex" width="12%" height="12%">
+    <img src="https://cdn4.iconfinder.com/data/icons/file-extensions-1/64/pdfs-512.png" alt="PDF" width="12%" height="12%">
 </p>
 
 # LlamaIndex-RAG
