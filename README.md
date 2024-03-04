@@ -4,7 +4,8 @@
 </p>
 
 # LlamaIndex-RAG
-Perform RAG (Retrieval-Augmented Generation) from your PDFs using this Colab notebook!
+Perform RAG (Retrieval-Augmented Generation) from your PDFs using this Colab notebook!<br>
+Powered by Llama 2
 <br><br>
 
 ## Features
