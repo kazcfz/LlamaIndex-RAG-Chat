@@ -3,7 +3,7 @@
     <img src="https://cdn4.iconfinder.com/data/icons/file-extensions-1/64/pdfs-512.png" alt="PDF" width="12%" height="12%">
 </p>
 
-# LlamaIndex-RAG
+# LlamaIndex-RAG-Chat
 Perform RAG (Retrieval-Augmented Generation) from your PDFs using this Colab notebook!<br>
 Powered by Llama 2
 <br><br>
